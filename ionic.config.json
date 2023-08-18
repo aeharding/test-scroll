@@ -1,0 +1,7 @@
+{
+  "name": "Test scroll",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
